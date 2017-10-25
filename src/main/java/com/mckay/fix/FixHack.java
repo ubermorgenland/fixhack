@@ -10,7 +10,6 @@ import quickfix.fix44.TradeCaptureReport;
 public class FixHack {
 
     public static void main(String args[]) {
-        System.out.println("Hello, World");
 
         Message msg = new TradeCaptureReport();
 
