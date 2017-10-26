@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/fixhack.iml" filepath="$PROJECT_DIR$/.idea/fixhack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fixhack_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fixhack_main.iml" group="fixhack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fixhack_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fixhack_test.iml" group="fixhack" />
     </modules>
   </component>
 </project>
